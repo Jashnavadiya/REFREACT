@@ -1,7 +1,3 @@
-/*  Assignment 1: Refs for Input Value Display**
- Create a functional component named "InputValueDisplay" to capture and display the input value in real-time using a ref.
-Problem Statement:**: Create a functional component named "InputValueDisplay.": Implement a ref to capture the input value when the user types in an input field.: Display the input value below the input field in real-time as the user types. */
-
 
 import React, { useRef, useState} from 'react';
 
